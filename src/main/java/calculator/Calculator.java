@@ -1,4 +1,4 @@
-package com.github.kassaab.calculator;
+package src.main.java.calculator;
 
 public class Calculator {
     public int add(int a, int b) {
