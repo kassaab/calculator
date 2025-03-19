@@ -1,8 +1,6 @@
 //Abraham Kassa
 
-package src.main.java.calculator;
-
-import src.main.java.calculator.Calculator;
+package com.github.kassaab.calculator;
 
 public class Main {
     public static void main(String[] args) {
